@@ -1,0 +1,94 @@
+/*navbar*/
+.nav-item{
+    padding: 0px 15px;
+}
+/*carousel*/
+#carousel{
+}
+.carousel-image{
+    height: 500px;
+    border-radius: 80px;
+}
+/*paragraph*/
+#paragraph{
+    padding: 2% 1%;
+}
+.paragraph-image{
+    height: 100px;
+   width: 600px;
+   border-radius: 100px;
+}
+/*services*/
+#services{
+
+}
+.service-image{
+    height: 200px;
+    width: 500px;
+}
+.service-group{
+    padding: 0% 3%;
+}
+
+.service-group1{
+    padding: 0px 15px;
+}
+.image-padding
+{
+    padding: 0px 2px;
+}
+
+/*cta*/
+#cta{
+    
+    color: whitesmoke;
+    padding: 2% 15%;
+    text-align: center;
+}
+.cta-heading{
+    background-color: rgb(16, 196, 241);
+    font-family: montserrat-black;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+/*footer*/
+
+#footer{
+    padding: 2% 15%;
+    text-align: center;
+}
+.social-icon{
+    margin: 20px 10px;
+}
+
+/*about*/
+.carousel-image11{
+    height: 300px;
+}
+.padding-about{
+    padding: 2px 1px 5px;
+}
+.what-we-do{
+    padding: 3px 1px 5px;
+}
+.card-group{
+    padding: 5px
+    1px;
+}
+.c-padding{
+    padding: 0px 5px;
+}
+.color{
+    background-color:aquamarine;
+    padding: 80px ;
+}
+.abouth2{
+    font-family: montserrat-black;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+@media (max-width:1028px){
+    .carousel-image{
+        border-radius: 0px;
+    }
+}
